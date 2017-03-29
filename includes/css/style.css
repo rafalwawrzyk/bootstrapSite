@@ -1,0 +1,117 @@
+#features {
+    text-align: center;
+}
+
+#features img {
+    margin: 0 0 20px;
+}
+
+#message {
+    margin-bottom: 20px;
+}
+
+.tab-pane {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    color: white;
+    background-color: #363636;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    background-color: #ededed
+}
+
+.well .page-header {
+    margin-top: 0;
+}
+
+.well .page-header h1 {
+    margin-top: 0;
+}
+
+#search-input {
+    width: 200px;
+}
+
+.navbar-brand {
+    padding: 13px 15px;
+}
+
+#myCarousel .item {
+    height: 600px;
+}
+
+#slide1 {
+    background-image: url("../../images/macbook-and-clutter-picjumbo-com.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#slide2 {
+    background-image: url("../../images/businessman-standing-in-his-office-picjumbo-com.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#slide3 {
+    background-image: url("../../images/FreeGreatPicture.com-53251-in-show-business-report-figure.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-caption {
+    font-size: 24px;
+}
+
+.carousel-caption h4 {
+    font-size: 32px;
+}
+
+.well {
+    margin-top: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header-text {
+    text-align: center;
+}
+
+.button-check {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.panel-img {
+    width: 130px;
+    height: 130px;
+}
+
+#more-about h2 {
+    text-align: center;
+}
+
+#more-about p {
+    text-align: center;
+}
+
+
+/*project based on Brad Hussey bootstrap course*/
